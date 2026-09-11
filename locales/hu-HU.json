@@ -356,8 +356,8 @@
   },
   "notification": {
     "added_you_to_collection": "Hozzáadva a gyújteményedhez",
-    "and": "És",
-    "collection_updated": "frissített egy gyűjteményt, amiben benne vagy",
+    "and": "és",
+    "collection_updated": "frissítve lett egy gyűjteményt, amiben benne vagy",
     "favourited_post": "hozzáaadta a bejegyésed a kedvenceihez",
     "followed_you": "mostantól követ téged",
     "followed_you_count": "{0} ember követ téged|{0} ember követ téged|{0} ember követ téged",
