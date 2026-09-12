@@ -100,10 +100,10 @@
     "remove_label": "Melléklet eltávolítása"
   },
   "collection": {
-    "created_by": "Készítete: ",
+    "created_by": "Készítette: ",
     "empty": "Nincsenek fiókok még ebben a gyújteményben.",
     "item_count": "{0} fiókok|{0} fiók|{0} fiók",
-    "no_collections": "Még nincsenekgyújtemények."
+    "no_collections": "Még nincsenek gyújtemények."
   },
   "command": {
     "activate": "Aktivál",
@@ -357,7 +357,7 @@
   "notification": {
     "added_you_to_collection": "Hozzáadva a gyújteményedhez",
     "and": "és",
-    "collection_updated": "frissítve lett egy gyűjteményt, amiben benne vagy",
+    "collection_updated": "frissítve lett egy gyűjtemény, amiben benne vagy",
     "favourited_post": "hozzáaadta a bejegyésed a kedvenceihez",
     "followed_you": "mostantól követ téged",
     "followed_you_count": "{0} ember követ téged|{0} ember követ téged|{0} ember követ téged",
